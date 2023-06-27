@@ -1,3 +1,6 @@
+import {peope} from './data.js';
+import {getImageUrl} from './utils.js';
+
 
 function App() {
   return (
