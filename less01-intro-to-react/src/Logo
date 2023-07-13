@@ -1,0 +1,11 @@
+
+function PerScholasLogo(){
+    return(
+        <div>
+            <img
+                src="https://perscholas.org/wp-content/themes/per-scholas/assets/images/logo1.svg"
+            />
+        </div>
+    )
+}
+export default Logo;
